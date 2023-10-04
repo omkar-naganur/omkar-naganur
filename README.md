@@ -1,4 +1,15 @@
+<h1 align="center">Hi 👋, I'm Omkarappa</h1>
+<p align="left">1.5 years of experance .</p>
 
+- 🔭 I’m currently working on **Manual Testing, API Testing**
+
+- 🌱 I’m currently learning **Selenium**
+
+- 💬 Ask me about **Java, Selenium, WebElements, Postman, API, Manual Testing, Defet Tracking, SDLC, STLC**
+
+- 📫 How to reach me **omkarnaganur123@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing](https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarappa-naganur-5063ab22a) 
