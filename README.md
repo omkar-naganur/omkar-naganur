@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omkarnaganur123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing](https://drive.google.com/file/d/1oy1QaKGAoC3T-FlTfIb9-JJ-m4YrZB1x/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KM4kRt2mT3qUrDHEzV9iPZL67obZqxFr/view?usp=sharing](https://drive.google.com/file/d/1KM4kRt2mT3qUrDHEzV9iPZL67obZqxFr/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarappa-naganur-5063ab22a) 
