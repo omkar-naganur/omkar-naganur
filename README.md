@@ -1,3 +1,4 @@
+google-site-verification: google5aeb01259430c813.html
 <meta name="google-site-verification" content="mAbxKwim2I5fBD1aVZSqdChmHqKsHt7glscg3htFN1Y" />
 # 💫 About Me:
 3+ years of experance .<br>🔭 I’m currently working on Manual Web & API Testing With Automation Testing. <br>🌱 I’m currently learning Playwright.<br>💬 Ask me about Java, Selenium, WebElements, Postman, API, Manual Testing, Defet Tracking, SDLC, STLC<br>📫 How to reach me omkarnaganur123@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1U4vzTmtl25G-7_p0ioI0v8Fkrf90afKU/view?usp=drive_link<br>
